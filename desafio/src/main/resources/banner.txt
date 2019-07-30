@@ -1,0 +1,10 @@
+
+  ${AnsiColor.GREEN} ___                          ___
+  ${AnsiColor.GREEN}(  _`\                      /'___) _                                ╗
+  ${AnsiColor.GREEN}| | ) |   __    ___    _ _ | (__  (_)   _       _   _   ___     _   ╝
+  ${AnsiColor.GREEN}| | | ) /'__`\/',__) /'_` )| ,__) | | /'_`\    ( ) ( )/' _ `\ /'_`\
+  ${AnsiColor.GREEN}| |_) |(  ___/\__, \( (_| || |    | |( (_) )   | (_) || ( ) |( (_) )╗
+  ${AnsiColor.GREEN}(____/'`\____)(____/`\__,_)(_)    (_)`\___/'   `\___/'(_) (_)`\___/'╝
+
+${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.jhipster.tech ::${AnsiColor.DEFAULT}

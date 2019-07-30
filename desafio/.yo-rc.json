@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.desafiouno"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "desafio",
+    "packageName": "com.desafiouno",
+    "packageFolder": "com/desafiouno",
+    "serverPort": "8181",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGZkYmRiNDE0ZTY1YzM3MTRmMGJjZTlkMjQxZTc3OWYyYjlmMjkzYWNmNGIxMWRkYjdlNDZmYjVkNzhjZGQwZTY4NDczYjEzYTM3MmFkZmY2MDIxYWNkY2NiZjMzNjM4NDJmOWVkZWMwZDJlZTdlZmExMGQzMjUxZTgxZWI2MWQ=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
